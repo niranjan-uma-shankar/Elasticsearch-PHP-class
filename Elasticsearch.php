@@ -33,7 +33,7 @@ class Elasticsearch
         // This function is to create an index
         function create()
         {
-                $this->call(NULL, array('method' => 'PUT'));
+                $this->call(NULL, array('method' => 'PUT', 'header' => "Content-Type: application/x-www-form-urlencoded\r\n"));
         }
 
         //curl -X GET http://localhost:9200/{INDEX}/_status
