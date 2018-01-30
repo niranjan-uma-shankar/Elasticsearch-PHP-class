@@ -4,7 +4,7 @@
 
  * Date: 18th December 2011
 
- * Authors: Niranjan Uma Shankar, Prasanna Venkatesan 
+ * Author: Niranjan Uma Shankar
 
  * Thanks to Alf Eaton (http://hublog.hubmed.org) for the first version
 
