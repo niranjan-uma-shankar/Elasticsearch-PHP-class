@@ -8,7 +8,7 @@
 
  * Thanks to Alf Eaton (http://hublog.hubmed.org) for the first version
 
- * For any queries, mail us at niranjan.u@computer.org or prasanna@computer.org
+ * For any queries, mail niranjan[dot]u[AT]gmail[dot]com
 
  * Please use as you wish at your own risk
 
